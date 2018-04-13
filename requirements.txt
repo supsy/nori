@@ -1,0 +1,5 @@
+setuptools>18.5
+jinja2
+pyyaml
+paramiko
+pysnmp

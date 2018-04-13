@@ -1,0 +1,3 @@
+[submodule "sysobj"]
+	path = sysobj
+	url = https://github.com/supsy/nori-sysobj.git
